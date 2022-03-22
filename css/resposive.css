@@ -8,6 +8,17 @@
         width: 190px;
         height: 60px;
     }
+    .item{
+         margin-top: 40px;
+         width: 70%;
+         height: 70%;
+
+    }
+    .carrosel{
+        width: 70%;
+        height: 70%;
+
+    }
 }
 @media screen and (min-width:1000px) {
     .decrição{
