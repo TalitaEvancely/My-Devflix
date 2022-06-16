@@ -4,3 +4,4 @@
 - O projeto tem como ideia fazer um clone da netflix ao seu modo.
 - Usei também o Jquery para fazer o carrossel onde estão os filmes indicados.
 
+link: https://talitaevancely.github.io/My-Devflix/
