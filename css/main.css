@@ -14,14 +14,6 @@ body{
   font-family: 'Arial', Times, serif;
   color: white;
 }
-/* 
- main{
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;  
-
-}*/
 
  header .container{
  margin: 10px 10px;
@@ -51,7 +43,7 @@ body{
  .filme-principal{
      font-size: 16px;
      background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100% ) , url('img/fundo_2001_uma_odisseia_no_espaco.jpg');
-     height: 500px; 
+     min-height: 600px; 
      background-size: cover;
      display: flex;
      flex-direction: column;
